@@ -1,6 +1,6 @@
 ### Hi! I'm Akron. 👋
 
-I'm a Research Software Engineer.
+I'm a Research Software Engineer at the Leibniz Institute for the German Language.
 
 
 ### My Interests

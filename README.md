@@ -5,7 +5,7 @@ I'm a Research Software Engineer at the Leibniz Institute for the German Languag
 
 ### My Interests
 - ⚙ Perl, Go, Javascript
-- 🔎 Search Engine Tech
-- 🔭 Finite State Tech
+- 🔎 Search Engine Technology
+- 🔭 Finite State Technology
 
 Visit me at https://www.nils-diewald.de
